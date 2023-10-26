@@ -1,1 +1,3 @@
-seq 10 | ./plus_stdin:
+#!/bin/bash
+
+seq 5 | ./plus
