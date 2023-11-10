@@ -12,6 +12,12 @@ $ ls
 LICENSE  README.md  plus  test.bash  
 ```
 
+# plusコマンド
+### 実行例
+```
+$ seq 5 | ./plus  
+15
+```
 ## 必要なソフトウェア
 * Python
   * テスト済み: pythonb 3.7~3.10
