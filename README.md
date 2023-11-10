@@ -4,6 +4,12 @@
 
 ![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)  
 
+# インストール方法
+'''
+$ git clone https://github.com/Hinatt0415/robosys2023.git  
+$ cd robosys2023  
+'''
+
 ## 必要なソフトウェア
 * Python
   * テスト済み: pythonb 3.7~3.10
