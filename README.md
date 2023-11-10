@@ -22,6 +22,7 @@ $ seq 5 | ./plus
 ## 必要なソフトウェア
 * Python
   * テスト済み: python 3.7~3.10
+* Ubuntu20.04
 
 ## テスト環境
 * Ubuntu20.04
