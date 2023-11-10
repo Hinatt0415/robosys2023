@@ -13,7 +13,7 @@ LICENSE  README.md  plus  test.bash
 ```
 
 # plusコマンド
-標準入力から読み込んだ数字を足す．  
+標準入力から読み込んだ数字を足してその結果を出力する．  
 ### 実行例
 ```
 $ seq 5 | ./plus  
