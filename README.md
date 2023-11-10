@@ -8,6 +8,8 @@
 ```
 $ git clone https://github.com/Hinatt0415/robosys2023.git  
 $ cd robosys2023  
+$ ls  
+LICENSE  README.md  plus  test.bash  
 ```
 
 ## 必要なソフトウェア
