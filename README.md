@@ -1,6 +1,6 @@
 # robosys2023
 
-ロボットシステム学2023
+本リポジトリはロボットシステム学で取り組んだ課題をあげるためのものである．
 
 ![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)  
 
