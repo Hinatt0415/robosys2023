@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#SPDX-FileCopyrightText: 2023  Hinata Sakuma s20c1707fh@chibakoudai.jp
+#SPDX-FileCopyrightText: 2023  Hinata Sakuma
 #SPDX-License-Identifier: BSD-3-Clause
 
 import sys
