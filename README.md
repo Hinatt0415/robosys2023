@@ -1,8 +1,8 @@
 # robosys2023
 
-本リポジトリはロボットシステム学で取り組んだ課題をあげるためのものである．
+![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)
 
-![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)  
+本リポジトリはロボットシステム学で取り組んだ課題をあげるためのものである．
 
 # インストール方法
 ```
