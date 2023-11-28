@@ -2,7 +2,7 @@
 
 ![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)
 
-本リポジトリはロボットシステム学で取り組んだ課題をあげるためのものである．
+本リポジトリはロボットシステム学で取り組んだ課題を保存，共有するためのものである．
 
 # インストール方法
 ```
