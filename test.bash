@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2023 Hianta Sakuma
+# SPDX-FileCopyrightText: 2023 Hinata Sakuma
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {

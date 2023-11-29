@@ -3,7 +3,8 @@
 ![test](https://github.com/Hinatt0415/robosys2023/actions/workflows/test.yml/badge.svg)
 
 本リポジトリはロボットシステム学で取り組んだ課題を保存，共有するためのものである．
-plusは第1回から第7回の授業において取り組んだ課題である．
+
+plusは第1回から第7回の授業で通して取り組んだ課題である．
 
 # インストール方法
 ```
