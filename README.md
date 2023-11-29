@@ -20,6 +20,8 @@ LICENSE  README.md  plus  test.bash
 ```
 $ seq 5 | ./plus  
 15
+$ seq 5 | sed 's/$/.1/' | ./plus
+15.5
 ```
 ## 必要なソフトウェア
 * Python
