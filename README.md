@@ -20,13 +20,11 @@ LICENSE  README.md  plus  test.bash
 ```
 $ seq 5 | ./plus  
 15
-$ seq 5 | sed 's/$/.1/' | ./plus
-15.5
 ```
 ## 必要なソフトウェア
 * Python
   * テスト済み: python 3.7~3.10
-* Ubuntu20.04
+* Ubuntu20.4
 
 ## テスト環境
 * Ubuntu20.04
